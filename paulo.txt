@@ -1,5 +1,4 @@
-teste2
-
+SELECT * FROM USUARIOS;
 
 paulo
 
@@ -9,4 +8,4 @@ Pupinnnn
 Murilo Salles
 
 
-SELECT * FROM USUARIOS;
+
