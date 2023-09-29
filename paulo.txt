@@ -1,3 +1,6 @@
+teste2
+
+
 paulo
 
 Alberto
@@ -5,4 +8,5 @@ Pupinnnn
 
 Murilo Salles
 
-teste2
+
+SELECT * FROM USUARIOS;
